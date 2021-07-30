@@ -1,0 +1,16 @@
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\bin\Debug\netstandard2.0\TF4FileIphoneTest.deps.json
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\bin\Debug\netstandard2.0\TF4FileIphoneTest.dll
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\bin\Debug\netstandard2.0\ref\TF4FileIphoneTest.dll
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\bin\Debug\netstandard2.0\TF4FileIphoneTest.pdb
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.Resources.Resource.resources
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.T4.AppResources.resources
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.csproj.GenerateResource.cache
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.AssemblyInfoInputs.cache
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.AssemblyInfo.cs
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.csproj.CoreCompileInputs.cache
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.dll
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\ref\TF4FileIphoneTest.dll
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.pdb
