@@ -25,6 +25,8 @@
         </Label>
         <Label Text="{Static resources:Resource.Key}" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
         <Label Text="{toolkit:Translate Key}" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
+        <Label x:Name="MyLabel" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
+        
         <Label Text="{Static t4:AppResources.Key}" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
         <Label Text="{toolkit:Translate Text={Static t4:AppResources.Key}}" FontSize="Large" HorizontalOptions="CenterAndExpand"/>
     </StackLayout>

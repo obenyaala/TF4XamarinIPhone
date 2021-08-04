@@ -51,9 +51,9 @@ D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\ob
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\TF4FileIphoneTest.iOS.csproj.CopyComplete
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\TF4FileIphoneTest.iOS.exe
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\TF4FileIphoneTest.iOS.pdb
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
-D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\optimized\
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\actool\_PartialAppManifest.items
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\actool\_BundleResourceWithLogicalName.items
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\ibtool\_BundleResourceWithLogicalName.items
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\coremlc\_PartialAppManifest.items
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\coremlc\_BundleResourceWithLogicalName.items
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest.iOS\obj\iPhone\Debug\device-builds\iphone12.8-14.6\optimized\

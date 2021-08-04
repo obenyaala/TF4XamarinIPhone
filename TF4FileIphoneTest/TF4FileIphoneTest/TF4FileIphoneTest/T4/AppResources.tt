@@ -87,10 +87,8 @@ namespace <#= resourceNamespace #>
         /// <summary>
         /// Returns a string similar to '<#= Ellipsis(entry.Value, 50) #>'
         /// </summary>
-        internal static string <#= entry.Name #>
-        {
-            get { return nameof(<#= entry.Name #>); }
-        }
+        internal static string <#= entry.Name #> = "<#= entry.Name #>";
+
 <# } #>
     }
 }

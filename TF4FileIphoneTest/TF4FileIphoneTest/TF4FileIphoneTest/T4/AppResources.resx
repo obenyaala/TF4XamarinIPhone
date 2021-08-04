@@ -120,4 +120,7 @@
   <data name="Key" xml:space="preserve">
     <value>From T4File</value>
   </data>
+  <data name="Key2" xml:space="preserve">
+    <value>hsdfsdf</value>
+  </data>
 </root>

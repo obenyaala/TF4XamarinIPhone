@@ -14,3 +14,4 @@ D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\De
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.dll
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\ref\TF4FileIphoneTest.dll
 D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.pdb
+D:\TF4XamarinIPhone\TF4FileIphoneTest\TF4FileIphoneTest\TF4FileIphoneTest\obj\Debug\netstandard2.0\TF4FileIphoneTest.csproj.AssemblyReference.cache

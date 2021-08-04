@@ -50,9 +50,12 @@ namespace TF4FileIphoneTest.T4
         /// <summary>
         /// Returns a string similar to 'From T4File'
         /// </summary>
-        internal static string Key
-        {
-            get { return nameof(Key); }
-        }
+        internal static string Key = "Key";
+
+        /// <summary>
+        /// Returns a string similar to 'hsdfsdf'
+        /// </summary>
+        internal static string Key2 = "Key2";
+
     }
 }
